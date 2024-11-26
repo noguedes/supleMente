@@ -1,0 +1,9 @@
+main h1, main h4 {
+    color: rgba(0, 173, 239);
+}
+
+#opcao-pagamento {
+    border: 1px solid rgba(103, 188, 69, 0.8);
+    border-radius: 10px;
+    padding: 30px;
+}

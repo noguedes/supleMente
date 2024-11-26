@@ -1,0 +1,22 @@
+.carousel-item {
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+.card {
+    width: 350px;
+    box-shadow: 0px 0px 10px rgba(0, 173, 239, 0.8);
+}
+
+.card-img-top {
+    padding: 30px;
+    height: 350px;
+}
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: rgba(103, 188, 69) ;
+}
+
+.table {
+    border-bottom: 1px solid rgba(103, 188, 69) !important;
+}

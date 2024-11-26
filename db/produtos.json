@@ -1,0 +1,72 @@
+[
+    {
+    "id": 1,
+    "name": "Sustagen Adultos+",
+    "image": "sustagemadultos.jpg",
+    "description": "Sustagen nutrição e energia é um complemento alimentar para adultos. Sua fórmula contém 26 vitaminas e minerais, como cálcio, ferro, vitamina d e proteína, que participam da manutenção dos ossos e dos músculos e da geração de energia no corpo, sendo importante para a auxiliar na realização de atividades do dia a dia.",
+    "price": 35.00
+    },
+    {
+    "id": 2,
+    "name": "Nestlé Nutren Senior ",
+    "image": "nutrenSenior.jpg",
+    "description": "é um suplemento alimentar que contém act-3, combinação exclusiva de cálcio, proteína e vitamina d, nutrientes essenciais na manutenção dos ossos e músculos, especialmente depois dos 50 anos.",
+    "price": 80.00
+    },
+    {
+    "id": 3,
+    "name": "Sustagen Senior ",
+    "image": "sustagenSenior.jpg",
+    "description": "A nova linha de Sustagen desenvolvida para adultos 50+ que buscam saúde por meio da nutrição, para viver cada momento da vida de forma plena. Sustagen Senior é um complemento alimentar e foi desenvolvido especialmente para complementar a alimentação e ajudar a atender as principais carências nutricionais de adultos 50+. Sua fórmula é Fonte de Fibras e Proteínas, além de possuir uma combinação única de 26 vitaminas e minerais que auxiliam no metabolismo energético, disposição, imunidade, manutenção dos ossos e funcionamento dos músculos. ",
+    "price": 70.00
+    },
+    {
+    "id": 4,
+    "name": "Danone Nutridrink Protein Senior",
+    "image": "nutridrinkProtein.jpg",
+    "description": "Nutridrink Protein Senior é o seu complemento diário, pois contém VITAMINA D, VITAMINA C e ZINCO*, que auxiliam no funcionamento do sistema imune. Além disso, tem baixo teor de gorduras totais. Para preparar, adicione 5 colheres de sopa (aprox. 50g) de Nutridrink em 170 mL de leite desnatado e misture bem até completa dissolução. Nutridrink não pode ser fervido.",
+    "price": 105.00
+    },
+    {
+    "id": 5,
+    "name": "Centrum",
+    "image": "centrum.jpg",
+    "description": "O Centrum Energia Corpo e Mente é o suplemento ideal para quem busca ter um maior estado de alerta, concentração e disposição! Com cafeína, Vitamina B12, magnésio e vitamina B6, este multivitamínico pode ser utilizado para dar um up no seu dia.",
+    "price": 60.00
+    },
+    {
+    "id": 6,
+    "name": "Nestlé Nutren",
+    "image": "nestlenutren.jpg",
+    "description": "Nutren Multi AZ é um suplemento alimentar da Nestlé, com vitaminas e mineiras essenciais para nutrição diária completa. Com mineiras quelados (Ferro, Manganês e Selênio. Auxilia na energia, disposição e imunidade. As vitaminas B6, B12, A, C, D, ácido fólico, e os minerais ferro, zinco, selênio auxiliam no funcionamento do sistema imune. As vitaminas B1, B2, C, B6, B12, niacina, ácido pantotênico, e o mineral ferro auxiliam no metabolismo energético. As vitaminas C, E, B2, e os minerais zinco e selênio são antioxidantes que auxiliam na proteção dos danos causados pelos radicais livres.",
+    "price": 40.00
+    },
+    {
+    "id": 7,
+    "name": "Lavitan A-Z Mulher",
+    "image": "azmulher.jpg",
+    "description": "O multivitamínico de A-Z é um suplemento alimentar em comprimidos revestidos. Rico em ferro e ácido fólico. Lavitan A-Z Mais Mulher contém em sua formulação 10 Vitaminas e 3 Minerais, voltado para suplementar a alimentação da Mulher.",
+    "price": 15.00
+    },
+    {
+    "id": 8,
+    "name": "Maca Peruana",
+    "image": "macaperuana.jpg",
+    "description": "Nutralin Maca Peruana oferece energia e vitalidade contendo: Maca Peruana em pó, Ácido ascórbico, Óxido de zinco, Acetato de retinol, antiumectantes óxido de magnésio, fosfato tricálcico, dióxido de silício e estabilizante polivinilpirrolidona.",
+    "price": 25.00
+    },
+    {
+    "id": 9,
+    "name": "Nutren Ômega 3",
+    "image": "nutrenomega3.jpg",
+    "description": "Suplemento Alimentar Nutren Ômega 3 1000mg, com óleo de girassol, bisglicinato de magnésio, gelatina, água purificada, colágeno de frango com colágeno tipo II não desnaturado (2,8%), colecalciferol, umectante glicerina, emulsificante lecitina de girassol, corante dióxido de titânio e estabilizante cera de abelha.",
+    "price": 65.00
+    },
+    {
+    "id": 10,
+    "name": "Oscal Vitamina",
+    "image": "oscalvitamina.jpg",
+    "description": "Os-cal d é um suplemento à base de cálcio e vitamina d. O cálcio é um mineral essencial ao organismo e sua função está relacionada à mineralização, formação, manutenção e rigidez da estrutura de ossos e dentes. O consumo adequado de cálcio é importante.",
+    "price": 70.00
+    }
+]
